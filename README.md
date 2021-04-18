@@ -1,6 +1,6 @@
 # CS5346_OTOT_C3
 
-video link
+[video link](OTOT_C3.mov)
 
 ## Topic: Health & Disease
 
